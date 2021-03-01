@@ -19,7 +19,7 @@ print(5+6**3)
 9 Kopilovs Marks
 
 10 Kostenko Karîna
-
+print(3**4)
 11 Kuzòecovs Ivans
 
 12 Ïetko Jevgçnijs
